@@ -4,11 +4,12 @@
 
 ### 1. Export the video clip
 - Use these exact settings:
-  Container: .MP4
-  Codec: H264
-  Resolution: 1920 x 1080 px maximum
-  Sound: disable sound export with the video clip
-  bitrate and file size: ~2000 kbps - file size of max. 1 MB
+  - Container: .MP4
+  - Codec: H264
+  - Resolution: 1920 x 1080 px maximum
+  - Sound: disable sound export with the video clip
+  - Length: 3-5 seconds
+  - bitrate and file size: ~2000 kbps - file size of max. 1 MB
 
 ### 2. Rename the video clip
 - Rename to this template: preview_projectname_01.mp4
