@@ -24,3 +24,6 @@
   - You can check if it works by opening this link in your browser. A simple video player with your video clip should appear.
 
 - Paste the video link into the project's Webflow CMS "Thumbnail Video Link" input field. Publish and done.
+
+#Edit the Website
+https://www.vandermerwe.eu/?edit
